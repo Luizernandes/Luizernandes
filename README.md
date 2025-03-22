@@ -25,6 +25,10 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizernandes/)
 
+###
+
+ ![Snake animation](https://github.com/luizernandes/luizernandes/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
