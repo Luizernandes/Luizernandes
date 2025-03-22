@@ -9,8 +9,8 @@ schedule:
 workflow_dispatch:
 
 # Para as atualizações.
-- name: Push changes
-uses: ad-m/github-push-action@master
+- name: Luiz Ernandes
+uses:luiz-ernandes@hotmail.com ad-m/github-push-action@master
 with:
 github_token: ${{ secrets.GITHUB_TOKEN }}
 branch: master
